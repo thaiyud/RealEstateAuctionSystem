@@ -1,0 +1,6 @@
+Hệ thống quản lý đấu giá bất động sản
++ Chức năng cho phép khách hàng đăng thông tin các bất động sản thực hiện tham gia đấu giá
++ Chức năng thực hiện đấu giá, khách hàng có thể thực hiện tùy chỉnh hình thức đấu giá tự động hoặc thủ công
++ Quản lý việc đặt cọc, thu phí của khách hàng khi thực hiện đấu giá
++ Quản lý các tài khoản truy cập hệ thống, danh mục hệ thống dùng chung, ...
++ Dashboard & reoport thống kê doanh thu, lượt đấu giá, ...
